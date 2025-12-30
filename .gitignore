@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+cmake-build-*/
+out/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea
+
+# Misc
+*.log
+
